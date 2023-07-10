@@ -4,35 +4,35 @@ Plot fumigation management system for the agricultural sector, capable of managi
 
 ## Main Form
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/b477dca1-871f-4a33-94f1-54be95ba17b8)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/8eb02459-8f86-4d72-bd32-a1cecafedd69)
 
 ## Person Menu
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/402a8224-4355-4df4-99b5-51704a27ace1)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/f90bdc9f-d4a5-430b-9016-a27d28bc382a)
 
 ## Terrain Menu
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/a3629c6a-8590-4866-b0dd-59ffe32627fb)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/76cb6e00-5bc9-4c7c-a0aa-c5168d1e55a4)
 
 ### Terrain Menu - Parcel Registration
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/faa84e27-f519-44c6-9eb2-b3450adc6503)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/7406bd6c-3ab7-4cba-b08b-63740b68c682)
 
 ## Product Menu
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/7df971e2-9744-4de7-aba4-35092149e277)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/1dbe6f14-5bb0-4bb9-b2f5-1ed9e5563242)
 
 ## Fumigation Menu
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/59d64a3a-00f2-4522-9a58-c7b1d4c474fa)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/faf077e9-d393-4868-97f3-ac3a85da19c7)
 
 ## Supply
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/23b8244e-2d72-4de7-bffc-53658cf0dab1)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/128fcd24-927b-4820-a73c-bbfe082f4437)
 
 ## Backups
 
-![image](https://github.com/royer-r-arevalo/fumigation-system/assets/69604497/b8ee58cb-fa7d-4137-9fa0-3b0f4321c3a1)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/f7fd7e19-3073-4c4e-9ffb-dc373003e31c)
 
 ## Contact
 ### Email: royer.r.arevalo@gmail.com or Phone: +591 6 393 8126
