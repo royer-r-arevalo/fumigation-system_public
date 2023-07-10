@@ -37,4 +37,4 @@ Plot fumigation management system for the agricultural sector, capable of managi
 ## Contact
 ### Email: royer.r.arevalo@gmail.com or Phone: +591 6 393 8126
 
-Private project repository [GitHub](https://eff.org](https://github.com/royer-r-arevalo/fumigation-system)https://github.com/royer-r-arevalo/fumigation-system)
+Private project repository [GitHub](https://github.com/royer-r-arevalo/fumigation-system)
