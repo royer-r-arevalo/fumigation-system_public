@@ -1,6 +1,6 @@
-# FUMIGATION SYSTEM
+# Desktop Plot Spraying Management System
 
-Plot fumigation management system for the agricultural sector, capable of managing aerial work for plot fumigation, using web and desktop technologies, which include the user account management module, aerial spraying, warehouse, client, and the reports module, being the reports module for the web platform.
+Plot spraying management system for the agricultural sector, capable of managing aerial work for plot fumigation, using web and desktop technologies, which include the user account management module, aerial spraying, warehouse, client, and the reports module, being the reports module for the web platform.
 
 ## Main Form
 
