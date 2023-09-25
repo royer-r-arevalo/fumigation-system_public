@@ -16,7 +16,7 @@ Plot spraying management system for the agricultural sector, capable of managing
 
 ### Terrain Menu - Parcel Registration
 
-![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/7406bd6c-3ab7-4cba-b08b-63740b68c682)
+![image](https://github.com/royer-r-arevalo/fumigation-system_public/assets/69604497/3f42ff99-3d18-41f6-8aed-e31040153ee4)
 
 ## Product Menu
 
